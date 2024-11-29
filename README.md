@@ -196,7 +196,9 @@ A comprehensive project demonstrating an efficient architecture for React and No
 - **Database**: MongoDB integration for robust data management.
 - **Key Features**: Scalable folder structure, API routing, and authentication mechanisms.
 
-[🔗 GitHub Repository](https://github.com/elvinbaghele/sample-react-_node_ts-Frontend-Backend)
+<a href="https://github.com/elvinbaghele/sample-react-_node_ts-Frontend-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinbaghele&repo=sample-react-_node_ts-Frontend-Backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ---
 
@@ -218,6 +220,31 @@ A mobile application designed for truckers, inspired by Uber, allowing users to 
 - **Key Features**: Cost calculator, driver and vehicle verification, and goods transport facilities.
 
 [🔗 GitHub Repository](https://github.com/elvinbaghele/MPTRUCK)
+
+
+<a href="https://github.com/tekvo/Lockboxy-API-Documentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tekvo&repo=Lockboxy-API-Documentation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/tekvo/sidepaneldemo.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tekvo&repo=sidepaneldemo.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/tekvo/Blockchain-Crypto-Auditing-Security">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tekvo&repo=Blockchain-Crypto-Auditing-Security&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/tekvo/NestJS-Backend-BoilerPlate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tekvo&repo=NestJS-Backend-BoilerPlate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Tekvology/Tekvo-OpenAI-Parallel-Toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tekvology&repo=Tekvo-OpenAI-Parallel-Toolkit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Tekvology/learning-k8s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tekvology&repo=learning-k8s&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ---
 
