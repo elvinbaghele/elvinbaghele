@@ -231,11 +231,6 @@ Let me know if you'd like to collaborate or have exciting projects to discuss! ð
 | <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=elvinbaghele&theme=juicyfresh&no-bg=true" /> </p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvinbaghele&" alt="elvinbaghele" /></p> |
 | ------------- | --------------- |
 
-
 ---
-
-# Products
-
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/442550?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
